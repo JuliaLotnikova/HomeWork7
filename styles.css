@@ -1,0 +1,64 @@
+
+
+main {
+  width: 1408px;
+  height: 747px;
+  position: relative;
+  top: 2px;
+}
+
+article {
+
+  width: 465px;
+  height: 351px;
+  position: absolute;
+  top: 89px;
+  left: 147px;
+  padding: 10px;
+}
+
+article h1 {
+  color: #5B6460;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 40px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+article p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 30px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+
+
+aside {
+  width: 693px;
+  height: 438px;
+  position: absolute;
+  top: 2px;
+  left: 717px;
+  padding: 10px;
+}
+
+.images {
+  width: 1408px;
+  height: 413px;
+  position: absolute;
+  top: 590px;
+  left: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.images img {
+  margin: 10px; /* установите нужный отступ между изображениями */
+}
+
